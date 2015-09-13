@@ -38,5 +38,7 @@ public class SimpleLinkedHashSetExample {
 }
 
 /*
- * Output of the program would be LinkedHashSet contains..[1, 2, 3]
+ * Output of the program would be 
+ * 
+ * LinkedHashSet contains:	[1, 2, 3]
  */
